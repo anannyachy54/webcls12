@@ -1,0 +1,44 @@
+.c{
+     background-image: url('i12.jpg');
+     weight:420px;
+     height: 400px;
+     color:rgba(6, 124, 221, 0.856);
+     background-repeat: no-repeat;
+     background-size: 400px 300px;
+     background-position: center;
+     background-attachment: scroll;
+     margin: auto;
+}
+#id1{
+    color:rgb(0, 200, 255);
+    border-width: 10px;
+    border-color: blue;
+    border-style: groove;
+}
+#id2{
+    color:rgb(0, 200, 255);
+    border-width: 10px;
+    border-color: skyblue;
+    border-style: dotted;
+}
+#id3{
+    color:rgba(7, 151, 192, 0.656);
+    border-width: 10px;
+    border-color: rgba(7, 143, 255, 0.512);
+    border-style: inset;
+}
+#id4{
+    color:rgb(0, 200, 255);
+    border-width: 10px;
+    border-color: rgba(27, 77, 185, 0.626);
+    border-style: dashed;
+}
+.c1{
+    color:rgb(0, 162, 207);
+    width:auto;
+    height:50px;
+    border-width: 5px 10px 15px 20px;
+    border-color: aqua aquamarine paleturquoise turquoise;
+    border-style: dotted dashed solid groove;
+    border-radius: 15px 30px ;
+}
